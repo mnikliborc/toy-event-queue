@@ -1,0 +1,22 @@
+@(username: String)
+
+@main("Welcome to Play Framework") {
+
+    <script type='text/javascript' src='@routes.Assets.at("javascripts/index.js")'></script>
+    
+    <div class="container">
+    	<label for="username">Username</label>
+    	<input id="username" value="@username" />
+    	<button id="auth">Auth</button>
+    	
+    	<label for="eventType">Event Type</label>
+    	<input id="eventType" />
+    	
+    	<button id="register">Register</button>
+    	<button id="unregister">Unregister</button>
+    	<button id="send">Send</button>
+    	
+    	<ul id="events"></ul>
+    </div>
+
+}

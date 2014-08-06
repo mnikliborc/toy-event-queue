@@ -1,0 +1,201 @@
+2014-08-06 22:51:31,068 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2014-08-06 22:51:44,233 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-08-06 22:51:44,426 - [INFO] - from play in New I/O worker #1 
+Starting application default Akka system.
+
+2014-08-06 22:51:45,016 - [DEBUG] - from application in New I/O worker #6 
+connect dupa2
+
+2014-08-06 22:51:55,281 - [DEBUG] - from application in play-akka.actor.default-dispatcher-4 
+register marcin, e1
+
+2014-08-06 22:52:18,132 - [DEBUG] - from application in play-akka.actor.default-dispatcher-2 
+register marcin, e1
+
+2014-08-06 22:52:32,556 - [DEBUG] - from application in play-akka.actor.default-dispatcher-6 
+auth nicram
+
+2014-08-06 22:52:32,578 - [DEBUG] - from application in New I/O worker #8 
+connect nicram
+
+2014-08-06 22:52:34,075 - [DEBUG] - from application in iteratee-execution-context-8 
+ws e1
+
+2014-08-06 22:52:34,081 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+Map()
+
+2014-08-06 22:52:50,900 - [DEBUG] - from application in iteratee-execution-context-6 
+ws e1
+
+2014-08-06 22:52:50,900 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Map()
+
+2014-08-06 22:53:15,481 - [DEBUG] - from application in play-akka.actor.default-dispatcher-7 
+auth marcin
+
+2014-08-06 22:53:15,490 - [DEBUG] - from application in New I/O worker #9 
+connect marcin
+
+2014-08-06 22:53:21,577 - [DEBUG] - from application in iteratee-execution-context-1 
+ws e1
+
+2014-08-06 22:53:21,578 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+Map()
+
+2014-08-06 22:53:30,002 - [DEBUG] - from application in play-akka.actor.default-dispatcher-8 
+auth marcin
+
+2014-08-06 22:53:30,012 - [DEBUG] - from application in New I/O worker #10 
+connect marcin
+
+2014-08-06 22:53:31,194 - [DEBUG] - from application in play-akka.actor.default-dispatcher-8 
+register marcin, e1
+
+2014-08-06 22:53:31,196 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+register received
+
+2014-08-06 22:53:33,184 - [DEBUG] - from application in iteratee-execution-context-8 
+ws e1
+
+2014-08-06 22:53:33,184 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+Map(e1 -> Set(Actor[akka://application/user/$e#-653687063]))
+
+2014-08-06 22:55:00,868 - [DEBUG] - from application in New I/O worker #15 
+connect marcin
+
+2014-08-06 22:55:01,972 - [DEBUG] - from application in New I/O worker #16 
+connect marcin
+
+2014-08-06 22:55:02,350 - [DEBUG] - from application in New I/O worker #2 
+connect marcin
+
+2014-08-06 22:55:02,729 - [DEBUG] - from application in New I/O worker #3 
+connect marcin
+
+2014-08-06 22:58:57,803 - [DEBUG] - from application in iteratee-execution-context-1 
+ws e1
+
+2014-08-06 22:58:57,804 - [DEBUG] - from application in application-akka.actor.default-dispatcher-6 
+Map(e1 -> Set(Actor[akka://application/user/$e#-653687063]))
+
+2014-08-06 22:59:02,955 - [DEBUG] - from application in play-akka.actor.default-dispatcher-10 
+auth marcin
+
+2014-08-06 22:59:02,968 - [DEBUG] - from application in New I/O worker #4 
+connect marcin
+
+2014-08-06 22:59:04,521 - [DEBUG] - from application in play-akka.actor.default-dispatcher-10 
+register marcin, e1
+
+2014-08-06 22:59:04,521 - [DEBUG] - from application in application-akka.actor.default-dispatcher-9 
+register received
+
+2014-08-06 22:59:07,063 - [DEBUG] - from application in iteratee-execution-context-4 
+ws e1
+
+2014-08-06 22:59:07,064 - [DEBUG] - from application in application-akka.actor.default-dispatcher-9 
+Map(e1 -> Set(Actor[akka://application/user/$e#-653687063], Actor[akka://application/user/$j#-147715537]))
+
+2014-08-06 23:00:31,805 - [INFO] - from play in play-internal-execution-context-7 
+Shutdown application default Akka system.
+
+2014-08-06 23:00:31,905 - [INFO] - from play in play-internal-execution-context-7 
+Application started (Dev)
+
+2014-08-06 23:00:31,922 - [INFO] - from play in New I/O worker #12 
+Starting application default Akka system.
+
+2014-08-06 23:00:32,097 - [DEBUG] - from application in New I/O worker #9 
+connect marcin
+
+2014-08-06 23:00:36,378 - [DEBUG] - from application in play-akka.actor.default-dispatcher-17 
+auth marcin
+
+2014-08-06 23:00:36,388 - [DEBUG] - from application in New I/O worker #10 
+connect marcin
+
+2014-08-06 23:00:37,393 - [DEBUG] - from application in play-akka.actor.default-dispatcher-17 
+register marcin, e1
+
+2014-08-06 23:00:37,395 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+register received
+
+2014-08-06 23:00:41,248 - [DEBUG] - from application in iteratee-execution-context-2 
+ws e1
+
+2014-08-06 23:00:46,526 - [DEBUG] - from application in iteratee-execution-context-8 
+ws e1
+
+2014-08-06 23:00:47,362 - [DEBUG] - from application in iteratee-execution-context-6 
+ws e1
+
+2014-08-06 23:00:47,594 - [DEBUG] - from application in iteratee-execution-context-5 
+ws e1
+
+2014-08-06 23:00:47,801 - [DEBUG] - from application in iteratee-execution-context-4 
+ws e1
+
+2014-08-06 23:00:48,041 - [DEBUG] - from application in iteratee-execution-context-7 
+ws e1
+
+2014-08-06 23:00:58,050 - [DEBUG] - from application in play-akka.actor.default-dispatcher-16 
+auth marcin
+
+2014-08-06 23:00:58,057 - [DEBUG] - from application in New I/O worker #11 
+connect marcin
+
+2014-08-06 23:01:01,840 - [DEBUG] - from application in play-akka.actor.default-dispatcher-16 
+register marcin, e1
+
+2014-08-06 23:01:01,840 - [DEBUG] - from application in application-akka.actor.default-dispatcher-4 
+register received
+
+2014-08-06 23:01:07,780 - [DEBUG] - from application in iteratee-execution-context-8 
+ws e1
+
+2014-08-06 23:01:11,212 - [DEBUG] - from application in iteratee-execution-context-4 
+ws e1
+
+2014-08-06 23:01:11,656 - [DEBUG] - from application in iteratee-execution-context-2 
+ws e1
+
+2014-08-06 23:01:12,145 - [DEBUG] - from application in iteratee-execution-context-5 
+ws e1
+
+2014-08-06 23:01:17,772 - [DEBUG] - from application in New I/O worker #14 
+connect marcin
+
+2014-08-06 23:01:19,625 - [DEBUG] - from application in play-akka.actor.default-dispatcher-23 
+auth marcin
+
+2014-08-06 23:01:19,636 - [DEBUG] - from application in New I/O worker #15 
+connect marcin
+
+2014-08-06 23:01:29,110 - [DEBUG] - from application in play-akka.actor.default-dispatcher-22 
+register marcin, e1
+
+2014-08-06 23:01:29,110 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+register received
+
+2014-08-06 23:01:34,820 - [DEBUG] - from application in New I/O worker #4 
+connect nicram
+
+2014-08-06 23:01:38,514 - [DEBUG] - from application in iteratee-execution-context-3 
+ws e1
+
+2014-08-06 23:01:38,516 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Map(e1 -> Set(Actor[akka://application/user/$c#-11274565], Actor[akka://application/user/$d#767278501], Actor[akka://application/user/$f#-1864983026]))
+
+2014-08-06 23:01:39,802 - [DEBUG] - from application in iteratee-execution-context-1 
+ws e1
+
+2014-08-06 23:01:39,802 - [DEBUG] - from application in application-akka.actor.default-dispatcher-5 
+Map(e1 -> Set(Actor[akka://application/user/$c#-11274565], Actor[akka://application/user/$d#767278501], Actor[akka://application/user/$f#-1864983026]))
+
+2014-08-06 23:06:59,960 - [INFO] - from play in main 
+Shutdown application default Akka system.
+
